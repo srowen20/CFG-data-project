@@ -1,5 +1,5 @@
 # Code First Girls Project
-## Solo Project
+## Solo Project by Sophie Owen
 ## Climate Conditions and their Effect on Economic Conditions
 
 ### File and Folder Locations
